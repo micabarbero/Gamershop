@@ -232,7 +232,7 @@ footer{
     width: 100%;
 }
 
-footer div{
+footer>div{
     display: flex;
     justify-content: space-evenly;
     width: 100%;
